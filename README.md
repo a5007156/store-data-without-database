@@ -1,9 +1,9 @@
 # Receive HTTP requests and store data without using a database
-Check the [nodejs version](https://github.com/Tecosse/store-data-without-db-nodejs-/).
+Check the [nodejs version](https://github.com/Tecosse/store-data-without-db-nodejs/).
 
 ## HOW TO USE
     sudo apt install git
-    git clone https://github.com/Tecosse/store-data-without-database/
+    git clone https://github.com/Tecosse/store-data-without-database.git
     cd ./store-data-without-database/
     python3 ./server.py
 > The command python3 server.py will start the server on port 8080.
